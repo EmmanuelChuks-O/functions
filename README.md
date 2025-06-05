@@ -1,5 +1,8 @@
 # Day 10: Functions in Python
 
+# function = A block of reusable code
+#           place () after the function name to invoke it
+
 Today I learned:
 
 - What functions are and why we use them
